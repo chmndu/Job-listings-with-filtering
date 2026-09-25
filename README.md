@@ -84,6 +84,5 @@ I'm looking to improve my CSS & JavaScript knowledge to design more unique and n
 
 ## Author
 
-- Website - [Chamindu Dahanayaka](https://chmndu.github.io/my-portfolio/)
 - Frontend Mentor - [@chmndu](https://www.frontendmentor.io/profile/chmndu)
 - LinkedIn - [Chamindu Dahanayaka](https://www.linkedin.com/in/chamindudahanayaka/)
